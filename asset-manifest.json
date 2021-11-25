@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pokeapi/static/css/main.dbef288c.chunk.css",
+    "main.js": "/pokeapi/static/js/main.b2c089ae.chunk.js",
+    "main.js.map": "/pokeapi/static/js/main.b2c089ae.chunk.js.map",
+    "runtime-main.js": "/pokeapi/static/js/runtime-main.0e507528.js",
+    "runtime-main.js.map": "/pokeapi/static/js/runtime-main.0e507528.js.map",
+    "static/js/2.d1b08915.chunk.js": "/pokeapi/static/js/2.d1b08915.chunk.js",
+    "static/js/2.d1b08915.chunk.js.map": "/pokeapi/static/js/2.d1b08915.chunk.js.map",
+    "static/js/3.8aef7872.chunk.js": "/pokeapi/static/js/3.8aef7872.chunk.js",
+    "static/js/3.8aef7872.chunk.js.map": "/pokeapi/static/js/3.8aef7872.chunk.js.map",
+    "index.html": "/pokeapi/index.html",
+    "static/css/main.dbef288c.chunk.css.map": "/pokeapi/static/css/main.dbef288c.chunk.css.map",
+    "static/js/2.d1b08915.chunk.js.LICENSE.txt": "/pokeapi/static/js/2.d1b08915.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/pokeapi/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e507528.js",
+    "static/js/2.d1b08915.chunk.js",
+    "static/css/main.dbef288c.chunk.css",
+    "static/js/main.b2c089ae.chunk.js"
+  ]
+}
